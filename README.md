@@ -9,5 +9,5 @@
   <li><a href="https://github.com/Smile3D/Tabs">Tabs</a></li>
   <li><a href="https://github.com/Smile3D/Accordeon">Accordeon</a></li>
   <li><a href="https://github.com/Smile3D/Open-Close">Open-Close</a></li>
-  <li><a href="https://github.com/Smile3D/-Fancybox-new-3.x-"></a></li>
+  <li><a href="https://github.com/Smile3D/-Fancybox-new-3.x-">-Fancybox-new-3.x-</a></li>
 </ul>
