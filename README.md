@@ -8,4 +8,5 @@
   <li><a href="https://github.com/Smile3D/Popup-on-click">Popup</a></li>
   <li><a href="https://github.com/Smile3D/Tabs">Tabs</a></li>
   <li><a href="https://github.com/Smile3D/Accordeon">Accordeon</a></li>
+  <li><a href="https://github.com/Smile3D/Open-Close">Open-Close</a></li>
 </ul>
