@@ -3,7 +3,7 @@
 <h3>Список ссылок на разные плагины JQ</h3>
 
 <ul>
-  <li><a href="https://github.com/Smile3D/Mobile-Burger-Menu">Мобильное бургер меню</a>
+  <li><a href="https://github.com/Smile3D/Mobile-Burger-Menu">Мобильное бургер меню (плавное появление)</a>
     <ul>
       <li><a href="">Меню слева</a></li>
     </ul>
