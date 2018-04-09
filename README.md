@@ -5,7 +5,7 @@
 <ul>
   <li><a href="https://github.com/Smile3D/Mobile-Burger-Menu">Мобильное бургер меню (плавное появление)</a>
     <ul>
-      <li><a href="">Меню слева (push)</a></li>
+      <li><a href="https://github.com/Smile3D/Mobile-Burger-Menu-push-left-">Меню слева (push)</a></li>
     </ul>
   </li>
   <li><a href="https://github.com/Smile3D/BG-Parallax-ie9-">BG-Parallax-ie9-</a></li>
