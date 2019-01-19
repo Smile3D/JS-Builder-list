@@ -1,6 +1,6 @@
 # JS-Builder-list
 <a href="http://jsnode.w3.ua:9090/">Оригинальный сайт JS билдера</a><br>
-<a href="http://jsnode.p2h.com:9090/">Оригинальный сайт JS билдера new</a><br>
+<a href="http://jsnode.p2h.com/">Оригинальный сайт JS билдера new</a><br>
 <a href="https://codepen.io/">Ссылка на codepen</a>
 <h3>Список ссылок на разные плагины JQ</h3>
 
